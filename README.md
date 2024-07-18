@@ -28,7 +28,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://t.me/Anime_talk_station)**
 
 **Make sure to see [contributing.md](https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
 
@@ -135,7 +135,7 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+Join Our [[Telegram Group](https://t.me/Anime_talk_station) For Support/Assistance And Our [Channel](https://t.me/Animes_Station) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
